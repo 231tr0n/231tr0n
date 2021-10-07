@@ -53,6 +53,9 @@
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
     </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
   </tr>
   <tr>
     
