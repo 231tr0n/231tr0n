@@ -5,7 +5,7 @@
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
 
 # Languages and frameworks which I am good at:-
-<table>
+<table style = 'border:0px;'>
   <tr>
     <td align = 'center'>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
