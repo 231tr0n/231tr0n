@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=231tr0n)
 [![twitter badge](https://img.shields.io/badge/twitter-231tr0n-0077b5?style=social&logo=twitter)](https://twitter.com/231tr0n)
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
 
-# Stuff I am good at:-
+### Stuff I am good at:-
 <table>
   <tr>
     <td align = 'center' valign = 'middle'>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-# Browsers I use:-
+### Browsers I use:-
 <table>
   <tr>
     <td align = 'center'>
@@ -74,7 +74,19 @@
   </tr>
 </table>
 
-# Editor which I use:-
+### Operating Systems which I use:-
+<table>
+  <tr>
+    <td align = 'center'>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### Editors which I use:-
 <table>
   <tr>
     <td align = 'center'>
@@ -85,6 +97,29 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### Shells which I use:-
+<table>
+  <tr>
+    <td align = 'center'>
+      <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    </td>
+    <td align = 'center'>
+      <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src = 'https://github-readme-stats.vercel.app/api?username=231tr0n' />
+    </td>
+    <td>
+      <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' />
     </td>
   </tr>
 </table>
