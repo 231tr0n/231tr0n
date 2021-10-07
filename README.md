@@ -7,7 +7,7 @@ My name is Srikar and I am into Web Development and Security.
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
 
 ### Stuff I am good at:-
-<table cellpadding = '0'>
+<table>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
