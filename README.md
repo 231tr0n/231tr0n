@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome
 
 ![](https://komarev.com/ghpvc/?username=231tr0n)
 [![twitter badge](https://img.shields.io/badge/twitter-231tr0n-0077b5?style=social&logo=twitter)](https://twitter.com/231tr0n)
@@ -22,6 +22,9 @@
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td align = 'center' valign = 'middle'>
@@ -38,6 +41,9 @@
     </td>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -57,10 +63,35 @@
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     </td>
   </tr>
+</table>
+
+### Stuff I am learning:-
+<table>
   <tr>
-    
+    <td align = 'center'>
+      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
   </tr>
 </table>
+
 
 ### Browsers I use:-
 <table>
