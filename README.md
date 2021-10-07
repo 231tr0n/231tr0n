@@ -62,6 +62,9 @@
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    </td>
   </tr>
 </table>
 
