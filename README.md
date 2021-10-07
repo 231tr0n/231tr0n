@@ -7,7 +7,7 @@ My name is Srikar and I am into Web Development and Security.
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
 
 ### Stuff I am good at:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -76,7 +76,7 @@ My name is Srikar and I am into Web Development and Security.
 </table>
 
 ### Stuff I am learning:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
@@ -109,7 +109,7 @@ My name is Srikar and I am into Web Development and Security.
 
 
 ### Browsers I use:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
@@ -121,7 +121,7 @@ My name is Srikar and I am into Web Development and Security.
 </table>
 
 ### Operating System I use for programming:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
@@ -130,7 +130,7 @@ My name is Srikar and I am into Web Development and Security.
 </table>
 
 ### Editors which I use:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
@@ -145,7 +145,7 @@ My name is Srikar and I am into Web Development and Security.
 </table>
 
 ### Shells which I use:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
@@ -157,7 +157,7 @@ My name is Srikar and I am into Web Development and Security.
 </table>
 
 ### Github Stats:-
-<table>
+<table style = 'border:none;'>
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' />
