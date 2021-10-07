@@ -155,7 +155,7 @@
   </tr>
 </table>
 
-### Github Stats
+### Github Stats:-
 <table>
   <tr>
     <td align = 'center' valign = 'middle'>
