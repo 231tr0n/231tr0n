@@ -116,12 +116,9 @@
   </tr>
 </table>
 
-### Operating Systems which I use:-
+### Operating System I use for programming:-
 <table>
   <tr>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
     </td>
