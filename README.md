@@ -4,7 +4,7 @@
 [![twitter badge](https://img.shields.io/badge/twitter-231tr0n-0077b5?style=social&logo=twitter)](https://twitter.com/231tr0n)
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
 
-# Languages and frameworks which I am good at:-
+# Stuff I am good at:-
 <table>
   <tr>
     <td align = 'center' valign = 'middle'>
