@@ -62,6 +62,18 @@
   </tr>
 </table>
 
+# Browsers I use:-
+<table>
+  <tr>
+    <td align = 'center'>
+      <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 # Editor which I use:-
 <table>
   <tr>
