@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td align = 'center' valign = 'middle'>
-      <img src="https://techdoma.in/images/overview-of-ejs-templating-engine.png" />
+      <img src="https://techdoma.in/images/overview-of-ejs-templating-engine.png" width = '100' height = '50' />
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
     <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width = '100' height = '50' />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
   </tr>
 </table>
