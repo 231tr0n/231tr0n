@@ -71,33 +71,33 @@
 ### Stuff I am learning:-
 <table>
   <tr>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
   </tr>
@@ -107,10 +107,10 @@
 ### Browsers I use:-
 <table>
   <tr>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
     </td>
   </tr>
@@ -119,10 +119,10 @@
 ### Operating Systems which I use:-
 <table>
   <tr>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
     </td>
   </tr>
@@ -131,13 +131,13 @@
 ### Editors which I use:-
 <table>
   <tr>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
     </td>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
     </td>
-    <td>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
     </td>
   </tr>
@@ -146,10 +146,10 @@
 ### Shells which I use:-
 <table>
   <tr>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
     </td>
-    <td align = 'center'>
+    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" />
     </td>
   </tr>
@@ -157,11 +157,11 @@
 
 <table>
   <tr>
-    <td>
-      <img src = 'https://github-readme-stats.vercel.app/api?username=231tr0n' />
+    <td align = 'center' valign = 'middle'>
+      <img src = 'https://github-readme-stats.vercel.app/api?username=231tr0n' width = '200' height = '200' />
     </td>
-    <td>
-      <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' />
+    <td align = 'center' valign = 'middle'>
+      <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' width = '200' height = '200' />
     </td>
   </tr>
 </table>
