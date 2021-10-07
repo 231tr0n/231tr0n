@@ -50,6 +50,9 @@
     <td align = 'center'>
       <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
     </td>
+    <td align = 'center'>
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+    </td>
   </tr>
   <tr>
     
