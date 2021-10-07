@@ -158,10 +158,10 @@
 <table>
   <tr>
     <td align = 'center' valign = 'middle'>
-      <img src = 'https://github-readme-stats.vercel.app/api?username=231tr0n' width = '200' height = '200' />
+      <img src = 'https://github-readme-stats.vercel.app/api?username=231tr0n' />
     </td>
     <td align = 'center' valign = 'middle'>
-      <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' width = '200' height = '200' />
+      <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' />
     </td>
   </tr>
 </table>
