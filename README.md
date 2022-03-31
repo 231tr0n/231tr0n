@@ -2,6 +2,12 @@
 
 My name is Srikar and I am into Web Development and Security.
 
+I have a CVE on my name in a open source CMS called strapi.
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-0764
+
+https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5/
+
 ![](https://komarev.com/ghpvc/?username=231tr0n)
 [![twitter badge](https://img.shields.io/badge/twitter-231tr0n-0077b5?style=social&logo=twitter)](https://twitter.com/231tr0n)
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
