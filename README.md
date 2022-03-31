@@ -8,6 +8,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2022-0764
 
 https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5/
 
+I am a member of the Bi0s team which is the India's leading ctf team. I am a team lead of a category of the team called Bi0s-pentest and we focus on getting bug bounties and CVEs.
+
 ![](https://komarev.com/ghpvc/?username=231tr0n)
 [![twitter badge](https://img.shields.io/badge/twitter-231tr0n-0077b5?style=social&logo=twitter)](https://twitter.com/231tr0n)
 [![linkedin badge](https://img.shields.io/badge/linkedin-231tr0n-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/231tr0n)
