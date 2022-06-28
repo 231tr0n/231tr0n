@@ -93,7 +93,7 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </td>
     <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
     </td>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
