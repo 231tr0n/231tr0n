@@ -80,6 +80,9 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
     <td align = 'center' valign = 'middle'>
       <img src="https://techdoma.in/images/overview-of-ejs-templating-engine.png" width = '100' height = '50' />
     </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    </td>
   </tr>
 </table>
 
@@ -103,14 +106,6 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
     </td>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -144,9 +139,6 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
     </td>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-    </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
     </td>
   </tr>
 </table>
