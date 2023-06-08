@@ -4,8 +4,6 @@ My name is Srikar and I am into Web Development and Security.
 
 I have a CVE on my name in a open source CMS called strapi.
 
-https://nvd.nist.gov/vuln/detail/CVE-2022-0764
-
 https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5/
 
 I am a member of the Bi0s team which is the India's leading ctf team. I am a team lead of a category of the team called Bi0s-pentest and we focus on getting bug bounties and CVEs.
@@ -32,9 +30,6 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-    </td>
   </tr>
   <tr>
     <td align = 'center' valign = 'middle'>
@@ -52,9 +47,6 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-    </td>
   </tr>
   <tr>
     <td align = 'center' valign = 'middle'>
@@ -67,9 +59,6 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
       <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
     </td>
     <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-    </td>
-    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     </td>
     <td align = 'center' valign = 'middle'>
@@ -78,34 +67,13 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
   </tr>
   <tr>
     <td align = 'center' valign = 'middle'>
-      <img src="https://techdoma.in/images/overview-of-ejs-templating-engine.png" width = '100' height = '50' />
-    </td>
-    <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### Stuff I am learning:-
-<table>
-  <tr>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-    </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-    </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-    </td>
-    <td align = 'center' valign = 'middle'>
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
     </td>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -127,6 +95,9 @@ I am a member of the Bi0s team which is the India's leading ctf team. I am a tea
   <tr>
     <td align = 'center' valign = 'middle'>
       <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+    </td>
+    <td align = 'center' valign = 'middle'>
+      <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
     </td>
   </tr>
 </table>
