@@ -1,6 +1,6 @@
 ## Welcome
 
-Visit my [website](https://231tr0n.github.io){:target="_blank" rel="noopener"} to know more about me.
+Visit my ![website](https://231tr0n.github.io) to know more about me.
 
 
 ## Github Stats
