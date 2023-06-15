@@ -1,7 +1,5 @@
 ## Welcome
 
-![](https://komarev.com/ghpvc/?username=231tr0n)
-
 Visit my website to know more about me.
 
 ## Github Stats
