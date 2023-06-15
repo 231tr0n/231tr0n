@@ -8,6 +8,11 @@ Visit my website to know more about me.
 <table>
   <tr>
     <td align = 'center' valign = 'middle'>
+      ![](https://komarev.com/ghpvc/?username=231tr0n)
+    </td>
+  </tr>
+  <tr>
+    <td align = 'center' valign = 'middle'>
       <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n' />
     </td>
   </tr>
