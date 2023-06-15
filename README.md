@@ -1,7 +1,7 @@
 ## Welcome
 
-Visit my website to know more about me.
-![Website](https://231tr0n.github.io)
+Visit my ![website](https://231tr0n.github.io) to know more about me.
+
 
 ## Github Stats
 ![](https://komarev.com/ghpvc/?username=231tr0n)
