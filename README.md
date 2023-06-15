@@ -4,7 +4,7 @@
 
 Visit my website to know more about me.
 
-### Github Stats:-
+## Github Stats
 <table>
   <tr>
     <td align = 'center' valign = 'middle'>
