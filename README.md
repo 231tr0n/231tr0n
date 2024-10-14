@@ -1,6 +1,6 @@
 ## Welcome
 
-Visit my [website](https://231tr0n.github.io) to know more about me.
+Please do visit my [website](https://231tr0n.github.io) to know more about me.
 
 
 ## Github Stats
