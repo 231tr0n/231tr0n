@@ -1,3 +1,4 @@
+# Hi there, I'm 231tr0n! 👋
 ## Welcome
 
 Please visit my [website](https://231tr0n.github.io) to know more about me.
@@ -8,4 +9,4 @@ Please visit my [website](https://231tr0n.github.io) to know more about me.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=231tr0n)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
