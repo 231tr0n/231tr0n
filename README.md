@@ -5,8 +5,11 @@ Please visit my [website](https://231tr0n.github.io) to know more about me.
 
 
 ## Github Stats
-![](https://komarev.com/ghpvc/?username=231tr0n)
+![Profile count](https://komarev.com/ghpvc/?username=231tr0n)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=231tr0n)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats dark](https://github-readme-stats.vercel.app/api?username=231tr0n&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Stats light](https://github-readme-stats.vercel.app/api?username=231tr0n&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n&layout=compact&&langs_count=100&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=231tr0n&layout=compact&&langs_count=100&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
